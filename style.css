@@ -1,0 +1,36 @@
+.florida-header {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    padding: 15px 0px;
+}
+
+.florida-author {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 7px;
+}
+
+
+.img1 {
+    float: left;
+    width: 400px;
+    margin: 0px 25px 25px 0px;
+}
+
+.florida-p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+a {
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: brown;
+}
